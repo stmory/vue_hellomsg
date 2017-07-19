@@ -1,12 +1,12 @@
 # hellomsg
 
-#一个简单的vue弹出框组件
+# 一个简单的vue弹出框组件
   提供了普通弹出框，延时自动关闭弹出框，带取消按钮的弹出框等几种常见的弹出框…………
-#截图如下
+# 截图如下
 <img src="https://github.com/stmory/vue_hellomsg/blob/master/screenShot/GIF.gif" />
 
 
-#设置
+# 设置
 | 属性 | 描述 |
 | ----- | ----- |
 | title | HelloMsg的标题文字（默认为空） |
