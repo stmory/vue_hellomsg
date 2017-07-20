@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Hello from './Hello'
+import Hello from './Hello.vue'
 
 let MessageBoxConstructor = Vue.extend(Hello)
 let instance,currentMsg
